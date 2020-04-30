@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DBconnect</string>
+    <string name="Pizza1">pizza name</string>
+    <string name="Pizza2">Price</string>
+    <string name="size1">small</string>
+    <string name="size2">medium</string>
+    <string name="size3">large</string>
+    <string name="ing">Ingrediants</string>
+    <string name="add">Add</string>
+    <string name="select">select all</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="id">ID</string>
+</resources>
